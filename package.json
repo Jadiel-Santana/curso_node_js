@@ -11,10 +11,13 @@
     "url": "git+https://github.com/Jadiel-Santana/curso_node_js.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jadiel Santana",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Jadiel-Santana/curso_node_js/issues"
   },
-  "homepage": "https://github.com/Jadiel-Santana/curso_node_js#readme"
+  "homepage": "https://github.com/Jadiel-Santana/curso_node_js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
